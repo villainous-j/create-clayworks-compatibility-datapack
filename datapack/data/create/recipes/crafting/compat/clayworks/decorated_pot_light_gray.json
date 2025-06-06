@@ -15,14 +15,8 @@
       "item": "minecraft:light_gray_dye"
     }
   },
-  "pattern": [
-    " B ",
-    "BDB",
-    " B "
-  ],
-  "results": [
-    {
-      "item": "clayworks:light_gray_decorated_pot"
-    }
-  ]
+  "pattern": [" B ", "BDB", " B "],
+  "result": {
+    "item": "clayworks:light_gray_decorated_pot"
+  }
 }

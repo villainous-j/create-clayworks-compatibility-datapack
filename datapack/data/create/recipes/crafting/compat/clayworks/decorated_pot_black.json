@@ -15,14 +15,8 @@
       "item": "minecraft:black_dye"
     }
   },
-  "pattern": [
-    " B ",
-    "BDB",
-    " B "
-  ],
-  "results": [
-    {
-      "item": "clayworks:black_decorated_pot"
-    }
-  ]
+  "pattern": [" B ", "BDB", " B "],
+  "result": {
+    "item": "clayworks:black_decorated_pot"
+  }
 }

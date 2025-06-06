@@ -15,14 +15,8 @@
       "item": "minecraft:green_dye"
     }
   },
-  "pattern": [
-    " B ",
-    "BDB",
-    " B "
-  ],
-  "results": [
-    {
-      "item": "clayworks:green_decorated_pot"
-    }
-  ]
+  "pattern": [" B ", "BDB", " B "],
+  "result": {
+    "item": "clayworks:green_decorated_pot"
+  }
 }

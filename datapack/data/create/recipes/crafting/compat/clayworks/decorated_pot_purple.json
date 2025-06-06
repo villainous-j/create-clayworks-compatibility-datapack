@@ -15,14 +15,8 @@
       "item": "minecraft:purple_dye"
     }
   },
-  "pattern": [
-    " B ",
-    "BDB",
-    " B "
-  ],
-  "results": [
-    {
-      "item": "clayworks:purple_decorated_pot"
-    }
-  ]
+  "pattern": [" B ", "BDB", " B "],
+  "result": {
+    "item": "clayworks:purple_decorated_pot"
+  }
 }

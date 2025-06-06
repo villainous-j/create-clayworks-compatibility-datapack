@@ -15,14 +15,8 @@
       "item": "minecraft:yellow_dye"
     }
   },
-  "pattern": [
-    " B ",
-    "BDB",
-    " B "
-  ],
-  "results": [
-    {
-      "item": "clayworks:yellow_decorated_pot"
-    }
-  ]
+  "pattern": [" B ", "BDB", " B "],
+  "result": {
+    "item": "clayworks:yellow_decorated_pot"
+  }
 }
