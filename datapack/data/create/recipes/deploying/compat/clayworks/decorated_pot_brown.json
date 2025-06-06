@@ -1,0 +1,22 @@
+{
+  "type": "create:deploying",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "clayworks"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "minecraft:decorated_pot"
+    },
+    {
+      "item": "minecraft:brown_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "clayworks:brown_decorated_pot"
+    }
+  ]
+}

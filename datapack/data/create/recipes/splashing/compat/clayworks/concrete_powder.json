@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "clayworks"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "clayworks:concrete_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "clayworks:concrete"
+    }
+  ]
+}
